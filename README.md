@@ -32,7 +32,7 @@
 - Upgrade and Update by :
 ```sh
 sudo apt-get update && sudo apt-get upgrade -y
-```<br>
+```
 - Install Ffmpeg by :
 ```sudo apt-get install python3-pip ffmpeg -y```<br>
 - Install required packages by :
