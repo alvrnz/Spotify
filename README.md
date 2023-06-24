@@ -29,9 +29,9 @@
 </h3>
 
 - Get your [Necessary Variables](https://github.com/alvrnz/Spotify/blob/master/sample.env)
-- Upgrade and Update by : ```sh
-sudo apt-get update && sudo apt-get upgrade -y
-```
+- Upgrade and Update by : ```
+sh
+sudo apt-get update && sudo apt-get upgrade -y```
 - Install Ffmpeg by :
 ```sudo apt-get install python3-pip ffmpeg -y```<br>
 - Install required packages by :
