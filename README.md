@@ -29,13 +29,22 @@
 </h3>
 
 - Get your [Necessary Variables](https://github.com/alvrnz/Spotify/blob/master/sample.env)
-- Upgrade and Update by : ```
-sh
-sudo apt-get update && sudo apt-get upgrade -y```
+
+- Upgrade and Update by : 
+```sh
+sudo apt-get update && sudo apt-get upgrade -y
+```
+
 - Install Ffmpeg by :
-```sudo apt-get install python3-pip ffmpeg -y```<br>
+```sh
+sudo apt-get install python3-pip ffmpeg -y
+```
+
 - Install required packages by :
-`sudo apt-get install python3-pip -y`
+```sh
+sudo apt-get install python3-pip -y
+```
+
 - Install pip by :
 `sudo pip3 install -U pip`
 - Install Node js by :
