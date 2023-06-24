@@ -29,8 +29,7 @@
 </h3>
 
 - Get your [Necessary Variables](https://github.com/alvrnz/Spotify/blob/master/sample.env)
-- Upgrade and Update by :
-```sh
+- Upgrade and Update by : ```sh
 sudo apt-get update && sudo apt-get upgrade -y
 ```
 - Install Ffmpeg by :
