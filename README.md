@@ -46,8 +46,7 @@
 - Fill your variables in the env by :
 `cp sample.env .env`
 - Edit Your .env Using Nano
-`nano .env`
-- After Edit Then Press CTRL X AND Y
+`nano .env` After Edit Done Then Press CTRL X AND Y To Save <br>
 - Make Screen Using `screen -S music`
 - Running Bot Using `bash start`
 - To Detach  Screen Press `CTRL+A THEN D`<br>
