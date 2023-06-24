@@ -48,8 +48,9 @@
 - Edit Your .env Using Nano
 `nano .env`
 - After Edit Then Press CTRL X AND Y
-`bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+- Make Screen Using `screen -S music`
+- Running Bot Using `bash start`
+- To Detach  Screen Press `CTRL+A THEN D`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
