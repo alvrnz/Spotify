@@ -46,19 +46,44 @@ sudo apt-get install python3-pip -y
 ```
 
 - Install pip by :
-`sudo pip3 install -U pip`
+```sh
+sudo pip3 install -U pip
+```
+
 - Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+```sh
+curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+```
+
 - Clone the repository by :
-`git clone https://github.com/alvrnz/Spotify && cd Spotify`
+```sh
+git clone https://github.com/alvrnz/Spotify && cd Spotify
+```
+
 - Install requirements by :
-`pip3 install -U -r requirements.txt`
+```sh
+pip3 install -U -r requirements.txt
+```
+
 - Fill your variables in the env by :
-`cp sample.env .env`
+```sh
+cp sample.env .env
+```
+
 - Edit Your .env Using Nano
-`nano .env` After Edit Done Then Press CTRL X AND Y To Save <br>
-- Make Screen Using `screen -S music`
-- Running Bot Using `bash start`
+```sh
+nano .env
+```
+After Edit Done Then Press CTRL X AND Y To Save <br>
+- Make Screen Using 
+```sh
+screen -S music
+```
+
+- Running Bot Using 
+```sh
+bash start
+```
 - To Detach  Screen Press `CTRL+A THEN D`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
